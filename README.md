@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FreshWave — Premium Laundry Service Website
 
 A modern, high-conversion laundry service website built with **React + Vite + Tailwind CSS**.
@@ -114,3 +115,6 @@ npm run build        # Outputs to /dist
 ```
 
 Deploy the `/dist` folder to **Vercel**, **Netlify**, or any static host.
+=======
+# FreshWave
+>>>>>>> 8e64e00326ebf92bf27ae32af1c3d7d50873923c
